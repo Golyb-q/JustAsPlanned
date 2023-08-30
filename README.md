@@ -7,14 +7,14 @@
 ----
 
 ## Usage
-1. Get the `.exe` binary (build the code or download from [releases](https://github.com/Eimaen/JustAsPlanned/releases))
+1. Get the `.exe` binary (build the code or download from [releases](https://github.com/Golyb-q/JustAsPlanned/releases))
 2. If you have a steam version of the game, steam client should be running.
 3. Run the app.
 4. If you don't have a steam copy of the game, start Muse Dash when required.
 5. Wait for the app to patch Muse Dash. It'll be closed automatically.
 
 ### Screenshots
-![I shot my screen for this](https://raw.githubusercontent.com/Eimaen/JustAsPlanned/master/screenshot.png)
+![I shot my screen for this](https://raw.githubusercontent.com/Golyb-q/JustAsPlanned/master/screenshot.png)
 
 ### Videos
 If you don't get it, check usage videos below:
