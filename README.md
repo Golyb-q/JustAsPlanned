@@ -1,4 +1,6 @@
 # JustAsPlanned
+## this is a fork, just for solely purposes to not losing the repo. i am not the author. i uploaded the executable file i saved from the original repository to releases.
+
 **Muse Dash (Steam, x64) DLC unlocker.**
 
 [![DungeonCI](https://img.shields.io/static/v1?label=dungeonci&message=master&color=purple)](https://www.google.com/search?q=Van+Darkholme)
